@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm George</h1>
 <h2 align="left">A frontend developer in Berlin, Germany</h2>
 
-Altogether, I've acquired 12 years of experience working for media and technology companies. I started my career in finance and business development. Post-Grad, I switched to marketing and did growth-oriented marketing for startups. My focuses were user acquisition and conversion optimization.
+Altogether, I've acquired 10 years of experience working for media and technology companies. I started my career in finance and business development. Post-Grad, I switched to marketing and did growth-oriented marketing for startups. My focuses were user acquisition and conversion optimization.
 
 The technical side of marketing inspired me to study design and web development. In mid-2015, I started teaching myself UX design, UI Design, HTML, CSS, and JavaScript after work. A few months later I decided to become a frontend developer.
 
