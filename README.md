@@ -21,7 +21,7 @@ I'm also a Project Management Institute Agile Certified Practitioner (PMI - ACP)
 
 🛣️ - My learning roadmap includes **GraphQL, MongoDB, Serverless Architecture, Data Visualization, Data Structures and Algorithms, and GoF Design Patterns**
 
-🤝  - I’m looking for a new job **I'm open to opportunities in Berlin (and 100% remote gigs)**
+🤝  - I’m looking for a new job. **I'm open to opportunities in Berlin (and 100% remote gigs)**
 
 📝 - I publish [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of Medium articles about my experience leveling up full-time.
 
