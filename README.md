@@ -17,9 +17,9 @@ I'm also a Project Management Institute Agile Certified Practitioner (PMI - ACP)
 
 🔭 - I’m currently working on [React Interactive Dashboard](https://github.com/georgebullock/react-interactive-dashboard-static)
 
-🛠️ - I know **HTML, CSS, JavaScript, React, TypeScript**
+🛠️ - I know **HTML, CSS, JavaScript, React, and TypeScript**
 
-🌱 - I’m currently learning **Advanced React, Advanced TypeScript, Express, and MySQL**
+🌱 - I’m currently learning **Functional Programming, Advanced React, Advanced TypeScript, Express, and MySQL**
 
 🛣️ - My learning roadmap includes **Redux, GraphQL, MongoDB, Serverless Architecture, Data Visualization, Data Structures and Algorithms, and GoF Design Patterns**
 
