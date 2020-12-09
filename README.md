@@ -33,9 +33,9 @@ I'm also a Project Management Institute Agile Certified Practitioner (PMI - ACP)
 
 ⚡ Fun facts 
  - I'm an Unsplash contributor. Check out my photos [here](https://unsplash.com/@george_bullock) 📷.
- - I'm from Alameda, California in the San Francisco Bay Area 🌉.
- - I breifly worked in theatrical marketing for a well-known movie studio. I met a bunch of celebs and literally got paid to watch movies 🎬.
- - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year. I don't speak much French or Spanish 🤷🏾‍♂️,  aber mein Deutsch ist nicht so schlecht 🙃.
+ - I'm from the San Francisco Bay Area 🌉., in California 🌴.
+ - I breifly worked in theatrical marketing for a well-known movie studio. I met a handful of celebs and literally got paid to watch movies 🎬.
+ - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year each. I don't speak much French or Spanish 🤷🏾‍♂️, aber mein Deutsch ist nicht so schlecht 🙃.
  - I love Deep House 🎛️, Synthwave 🦄, 90s Hip Hop 🎤, crime dramas 🔫 (especially Heat and Collateral), Asian food 🥡 and socializing with misfits 🤡. 
 
 <p align="left">
