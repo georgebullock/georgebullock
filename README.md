@@ -38,17 +38,6 @@ I'm also a Project Management Institute Agile Certified Practitioner (PMI - ACP)
  - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year each. I don't speak much French or Spanish 🤷🏾‍♂️, aber mein Deutsch ist nicht so schlecht 🙃.
  - I love Deep House 🎛️, Synthwave 🦄, 90s Hip Hop 🎤, crime dramas 🔫 (especially Heat and Collateral), Asian food 🥡 and socializing with misfits 🤡. 
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/georgebullock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="georgebullock" height="30" width="40" /></a>
-<a href="https://twitter.com/george_bullock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="george_bullock" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bullockgeorge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bullockgeorge" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:4436706" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:4436706" height="30" width="40" /></a>
-<a href="https://codesandbox.com/georgebullock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="georgebullock" height="30" width="40" /></a>
-<a href="https://instagram.com/george__bullock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="george__bullock" height="30" width="40" /></a>
-<a href="https://medium.com/@georgebullock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@georgebullock" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebullock&layout=compact" alt="georgebullock" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgebullock&show_icons=true" alt="georgebullock" /></p>
