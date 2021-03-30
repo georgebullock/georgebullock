@@ -15,7 +15,7 @@ I'm also a Project Management Institute Agile Certified Practitioner (PMI - ACP)
 
 <h2 align="left">More about me</h2>
 
-🔭 - Cuurently, I’m not working on a side project.
+🔭 - I’m not working on a side project right now.
 
 🛠️ - I know **HTML, CSS, JavaScript, React, and TypeScript**
 
@@ -23,18 +23,18 @@ I'm also a Project Management Institute Agile Certified Practitioner (PMI - ACP)
 
 🛣️ - My learning roadmap includes **Redux, GraphQL, MongoDB, Serverless Architecture, Data Visualization, Data Structures and Algorithms, and GoF Design Patterns**
 
-🤝  - I’m work for Aroundhome. **I'm not seeking new job opportunities right now**
+🤝  - I work full-time for [Aroundhome](https://www.aroundhome.de/). **I'm not seeking new job opportunities right now**
 
-📝 - I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time.
+📝 - In 2020 I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
 💬 - Ask me about **HTML, CSS, JavaScript, React, Customer Development, Product, Growth, and Finance**
 
-📫 - How to reach me **On Twitter @george_bullock**
+📫 - Reach me **On Twitter [@george_bullock](https://twitter.com/george_bullock)**
 
 ⚡ Fun facts 
  - I'm an Unsplash contributor. Check out my photos [here](https://unsplash.com/@george_bullock) 📷.
  - I'm from the San Francisco Bay Area 🌉., in California 🌴.
- - I breifly worked in theatrical marketing for a well-known movie studio. I met a handful of celebs and literally got paid to watch movies 🎬.
+ - I breifly worked in theatrical marketing for [Lionsgate](https://www.lionsgate.com/). I met a handful of celebs and literally got paid to watch movies 🎬.
  - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year each. I don't speak much French or Spanish 🤷🏾‍♂️, aber mein Deutsch ist nicht so schlecht 🙃.
  - I love Deep House 🎛️, Synthwave 🦄, 90s Hip Hop 🎤, crime dramas 🔫 (especially Heat and Collateral), Asian food 🥡 and socializing with misfits 🤡. 
 
