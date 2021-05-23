@@ -1,27 +1,27 @@
 <h1 align="left">Hi 👋, I'm George</h1>
 <h2 align="left">A frontend developer in Berlin, Germany</h2>
 
-Altogether, I've acquired 10 years of experience working for media and technology companies. I started my career in finance and business development. Post-Grad, I switched to marketing and did growth-oriented marketing for startups. My focuses were user acquisition and conversion optimization.
+I'm a business professional with strong information technology skills.
+
+I have over 10 years of experience working for media and technology companies. I started my career in finance and business development. Post-Grad, I switched to marketing and did growth-oriented marketing for startups. My focuses were user acquisition and conversion optimization.
 
 The technical side of marketing inspired me to study design and web development. In mid-2015, I started teaching myself UX design, UI Design, HTML, CSS, and JavaScript after work. A few months later I decided to become a frontend developer.
 
-To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full time. Besides teaching myself, that summer I completed a full-time web development boot camp. In October 2016, I started applying for frontend development jobs. A month later I landed a frontend job at IBM iX / Aperto
+To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full time. Besides teaching myself, I completed a full-time web development boot camp. In October, I started applying for frontend development jobs. A month later I landed my first frontend job at Aperto - An IBM Company (IBM iX).
 
-After three years and five months at IBM iX / Aperto, I resigned to pursue the next step in my career. I'm currently seeking a mid-level frontend developer role, in Berlin, at a product company where I can work on a single page application full time.
+Currently, I'm a frontend developer at Aroundhome, which is a marketplace for home services. My team handles prospecting for demand-side growth opportunities and building the next generation of Aroundhome's products.
 
-I earned an MBA from EDHEC Business School in France and a B.S. in Business Administration, with an emphasis on finance, from California State University, Los Angeles.
-
-I'm also a Project Management Institute Agile Certified Practitioner (PMI - ACP) certificate holder.
+I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Business Administration, with an emphasis on finance, from California State University - Los Angeles. And I'm a Project Management Institute Agile Certified Practitioner (PMI - ACP) certificate holder.
 
 <h2 align="left">More about me</h2>
 
-🔭 - I’m not working on a side project right now.
+🔭 - I’m not working on **[UI Inventory](https://github.com/georgebullock/ui-inventory) **.
 
 🛠️ - I know **HTML, CSS, JavaScript, React, and TypeScript**
 
-🌱 - I’m currently learning **Functional Programming, Advanced React, Advanced TypeScript, Express, and MySQL**
+🌱 - I’m currently learning **Advanced React, application architecture, algorithmic layout, TDD / BDD, GraphQL, KeystoneJS**
 
-🛣️ - My learning roadmap includes **Redux, GraphQL, MongoDB, Serverless Architecture, Data Visualization, Data Structures and Algorithms, and GoF Design Patterns**
+🛣️ - My learning roadmap includes **Redux, PostgresSQL, MongoDB, Serverless Architecture, Data Visualization, Data Structures and Algorithms, and GoF Design Patterns**
 
 🤝  - I work full-time for [Aroundhome](https://www.aroundhome.de/). **I'm not seeking new job opportunities right now**
 
