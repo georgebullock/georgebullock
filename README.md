@@ -15,11 +15,11 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 <h2 align="left">More about me</h2>
 
-🔭 - I’m not working on [UI Inventory](https://github.com/georgebullock/ui-inventory).
+🔭 - Currently, I’m working on [UI Inventory](https://github.com/georgebullock/ui-inventory).
 
 🛠️ - I know **HTML, CSS, JavaScript, React, and TypeScript**
 
-🌱 - I’m currently learning **Advanced React, application architecture, algorithmic layout, TDD / BDD, GraphQL, KeystoneJS**
+🌱 - I’m learning **Advanced React, application architecture, algorithmic layout, TDD / BDD, GraphQL, KeystoneJS**
 
 🛣️ - My learning roadmap includes **Redux, PostgresSQL, MongoDB, Serverless Architecture, Data Visualization, Data Structures and Algorithms, and GoF Design Patterns**
 
