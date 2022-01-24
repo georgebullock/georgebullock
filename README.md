@@ -34,8 +34,8 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 ⚡ Fun facts 
  - I'm an Unsplash contributor. Check out my photos [here](https://unsplash.com/@george_bullock) 📷.
  - I'm from the San Francisco Bay Area 🌉., in California 🌴.
- - I breifly worked in theatrical marketing for [Lionsgate](https://www.lionsgate.com/). I met a handful of celebs and literally got paid to watch movies 🎬.
- - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year each. I don't speak much French or Spanish 🤷🏾‍♂️, aber mein Deutsch ist nicht so schlecht 🙃.
+ - I briefly worked in theatrical marketing for [Lionsgate](https://www.lionsgate.com/). I met a handful of celebs and literally got paid to watch movies 🎬.
+ - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year each. I don't speak French or Spanish 🤷🏾‍♂️, aber mein Deutsch ist nicht so schlecht 🙃.
  - I love Deep House 🎛️, Synthwave 🦄, 90s Hip Hop 🎤, crime dramas 🔫 (especially Heat and Collateral), Asian food 🥡 and socializing with misfits 🤡. 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebullock&layout=compact" alt="georgebullock" /></p>
