@@ -15,7 +15,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 <h2 align="left">More about me</h2>
 
-🔭 - Currently, I’m working on [UI Inventory](https://github.com/georgebullock/ui-inventory).
+🔭 - Currently, I’m working on [UI Inventory](https://github.com/georgebullock/ui-inventory) and various tutorials.
 
 🛠️ - I know **HTML, CSS, JavaScript, React, and TypeScript**
 
