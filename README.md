@@ -19,11 +19,11 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 🛠️ - I know **HTML, CSS, JavaScript, React, and TypeScript**
 
-🌱 - I’m learning **Advanced React, application architecture, algorithmic layout, TDD / BDD, GraphQL, KeystoneJS**
+🌱 - I’m learning **Advanced React (composition, SOC, isomorphic components), application architecture, algorithmic layout, TDD / BDD, GraphQL (via Apollo), KeystoneJS**
 
-🛣️ - My learning roadmap includes **Redux, PostgresSQL, MongoDB, Serverless Architecture, Data Visualization, Data Structures and Algorithms, and GoF Design Patterns**
+🛣️ - My learning roadmap includes **Zustand, Redux Toolkit, React Query, React Aria, Framer Motion || React Motion, PostgresSQL, MongoDB, Serverless Architecture (via AWS), Data Visualization (via D3), Data Structures and Algorithms, and GoF Design Patterns**
 
-🤝  - I work full-time for [Aroundhome](https://www.aroundhome.de/). **I'm not seeking new job opportunities right now**
+🤝  - I work full-time for [Aroundhome](https://www.aroundhome.de/). **I resigned and I'm open to new mid-level job opportunities!**
 
 📝 - In 2020 I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
