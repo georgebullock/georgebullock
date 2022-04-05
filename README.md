@@ -19,7 +19,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 🛠️ - I know **HTML, CSS, JavaScript, React, and TypeScript**
 
-🌱 - I’m learning **Advanced React (composition, SOC, isomorphic components), application architecture, algorithmic layout, TDD / BDD, GraphQL (via Apollo), KeystoneJS**
+🌱 - I’m learning **Advanced React (composition, SOC, polymorphic components), application architecture, algorithmic layout, TDD / BDD, GraphQL (via Apollo), KeystoneJS**
 
 🛣️ - My learning roadmap includes **Zustand, Redux Toolkit, React Query, React Aria, Framer Motion || React Motion, PostgresSQL, MongoDB, Serverless Architecture (via AWS), Data Visualization (via D3), Data Structures and Algorithms, and GoF Design Patterns**
 
