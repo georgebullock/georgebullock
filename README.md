@@ -1,17 +1,19 @@
 <h1 align="left">Hi 👋, I'm George</h1>
-<h2 align="left">A frontend developer in Berlin, Germany</h2>
+<h2 align="left">A product manager in Berlin, Germany</h2>
 
 I'm a business professional with strong information technology skills.
 
 I have over 10 years of experience working for media and technology companies. I started my career in finance and business development. Post-Grad, I switched to marketing and did growth-oriented marketing for startups. My focuses were user acquisition and conversion optimization.
 
-The technical side of marketing inspired me to study design and web development. In mid-2015, I started teaching myself UX design, UI Design, HTML, CSS, and JavaScript after work. A few months later I decided to become a frontend developer.
+The technical side of marketing inspired me to study design and web development. In mid-2015, I started teaching myself UX design, UI Design, HTML, CSS, and JavaScript after work. A few months later, I decided to become a frontend developer.
 
 To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full time. Besides teaching myself, I completed a full-time web development boot camp. In October, I started applying for frontend development jobs. A month later I landed my first frontend job at Aperto - An IBM Company (IBM iX).
 
-Currently, I'm a frontend developer at Aroundhome, which is a marketplace for home services. My team handles prospecting for demand-side growth opportunities and building the next generation of Aroundhome's products.
+After ~5 years in frontend engineering, I decided to make a lateral move into product management to apply my business and technical skills to aligning people and driving business outcomes.
 
-I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Business Administration, with an emphasis on finance, from California State University - Los Angeles. And I'm a Project Management Institute Agile Certified Practitioner (PMI - ACP) certificate holder.
+Now, I'm a product manager at mobileJobs, which is a SaaS recruiting solution and marketplace for blue-collar talent. I'm responsible for the B2C side of the product making sure blue-collar job applicants have delightful application experiences resulting in job offers.
+
+I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Business Administration, with an emphasis on finance, from California State University, Los Angeles. And I'm a Project Management Institute Agile Certified Practitioner (PMI - ACP) certificate holder.
 
 <h2 align="left">More about me</h2>
 
@@ -23,7 +25,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 🛣️ - My learning roadmap includes **Zustand, Redux Toolkit, React Query, React Aria, Framer Motion || React Motion, PostgresSQL, MongoDB, Serverless Architecture (via AWS), Data Visualization (via D3), Data Structures and Algorithms, and GoF Design Patterns**
 
-🤝  - I work full-time for [Aroundhome](https://www.aroundhome.de/). **I resigned and I'm open to new mid-level job opportunities!**
+🤝  - I work full-time for [mobileJobs](https://www.mobilejob.com/).
 
 📝 - In 2020 I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
