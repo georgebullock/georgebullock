@@ -7,7 +7,7 @@ I have over 10 years of experience working for media and technology companies. I
 
 The technical side of marketing inspired me to study design and web development. In mid-2015, I started teaching myself UX design, UI Design, HTML, CSS, and JavaScript after work. A few months later, I decided to become a frontend developer.
 
-To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full time. Besides teaching myself, I completed a full-time web development boot camp. In October, I started applying for frontend development jobs. A month later I landed my first frontend job at Aperto - An IBM Company (IBM iX).
+To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full time. Besides teaching myself, I completed a full-time web development boot camp. In October, I started applying for frontend development jobs. A month later I landed my first frontend job at IBM iX.
 
 After ~5 years in frontend engineering, I decided to make a lateral move into product management to apply my business and technical skills to aligning people and driving business outcomes.
 
