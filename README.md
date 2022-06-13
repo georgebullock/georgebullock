@@ -17,28 +17,33 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 <h2 align="left">More about me</h2>
 
-🔭 - Currently, I’m working on [UI Inventory](https://github.com/georgebullock/ui-inventory) and a few of micro-projects to learn or get better at specific things (e.g. writing custom hooks, strongly-typed polymorphic React componenets via TypeScript)
-
-🛠️ - I know **HTML, CSS, JavaScript, React, and TypeScript**
-
-🌱 - I’m learning **Advanced React (composition, SOC, polymorphic components), application architecture, algorithmic layout, TDD / BDD, GraphQL (via Apollo), KeystoneJS**
-
-🛣️ - My learning roadmap includes **Zustand, Redux Toolkit, React Query, React Aria, Framer Motion || React Motion, PostgresSQL, MongoDB, Serverless Architecture (via AWS), Data Visualization (via D3), Data Structures and Algorithms, and GoF Design Patterns**
-
 🤝  - I work full-time for [mobileJobs](https://www.mobilejob.com/).
 
-📝 - In 2020 I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
+🛠️ - I know **HTML, CSS, JavaScript, React, TypeScript, and basic SQL**
 
-💬 - Ask me about **HTML, CSS, JavaScript, React, Customer Development, Product, Growth, and Finance**
+🔭 - My next side project is [UI Inventory](https://github.com/georgebullock/ui-inventory), which is a React component library I'm building from scratch. 
 
-📫 - Reach me **On Twitter [@george_bullock](https://twitter.com/george_bullock)**
+🌱 - I’m learning **advanced React, application architecture, algorithmic layout, TDD, GraphQL (via Apollo), KeystoneJS**
 
-⚡ Fun facts 
- - I'm an Unsplash contributor. Check out my photos [here](https://unsplash.com/@george_bullock) 📷.
- - I'm from the San Francisco Bay Area 🌉., in California 🌴.
+🛣️ - My technical learning roadmap includes **Zustand, Redux Toolkit, React Query, React Aria, Framer Motion || React Motion, PostgresSQL, serverless architecture (via AWS), data visualization (via D3), fundamental data structures and algorithms, and the most commonly used GoF design patterns**
+
+📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
+
+✍🏾 - I recently created a blog named [Diaminding](https://www.diaminding.com/about/), but I haven't started publishing yet
+
+🌐 - My personal website is [georgebullock.dev](https://www.georgebullock.dev/)
+
+📫 - You can follow me **On Twitter [@george_bullock](https://twitter.com/george_bullock)**
+
+⚡ - Other Fun facts 
+ - I'm an occasional Unsplash contributor. Check out my photos [here](https://unsplash.com/@george_bullock) 📷.
  - I briefly worked in theatrical marketing for [Lionsgate](https://www.lionsgate.com/). I met a handful of celebs and literally got paid to watch movies 🎬.
- - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year each. I don't speak French or Spanish 🤷🏾‍♂️, aber mein Deutsch ist nicht so schlecht 🙃.
- - I love Deep House 🎛️, Synthwave 🦄, 90s Hip Hop 🎤, crime dramas 🔫 (especially Heat and Collateral), Asian food 🥡 and socializing with misfits 🤡. 
+ - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year each. But, I don't speak French or Spanish 🤷🏾‍♂️.
+ - I love Deep House 🎛️, Synthwave 🦄, 90s Hip Hop 🎤, crime dramas 🔫 (especially Heat and Collateral), sci-fi 🛸, BBQ 🍖, and Asian food 🥡 
+ - My favorite restaurant: It's a tie between Doyum Grill 🇹🇷 and Good Friends 🇨🇳.
+ - My favorite baked good: Oatmeal raisin cookies 🍪.
+ - Pineapple on pizza? Nope 🙅🏾‍♂️.
+ - My coffee order: Americano with whole milk 🐮.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebullock&layout=compact" alt="georgebullock" /></p>
 
