@@ -40,10 +40,11 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
  - I briefly worked in theatrical marketing for [Lionsgate](https://www.lionsgate.com/). I met a handful of celebs and literally got paid to watch movies 🎬.
  - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year each. But, I don't speak French or Spanish 🤷🏾‍♂️.
  - I love Deep House 🎛️, Synthwave 🦄, 90s Hip Hop 🎤, crime dramas 🔫 (especially Heat and Collateral), sci-fi 🛸, BBQ 🍖, and Asian food 🥡 
- - My favorite restaurant: It's a tie between Doyum Grill 🇹🇷 and Good Friends 🇨🇳.
+ - My favorite restaurant: It's a tie between [Doyum Restaurant](http://www.doyum-restaurant.de/) 🇹🇷 and [Good Friends](https://www.goodfriends-berlin.de/) 🇨🇳.
  - My favorite baked good: Oatmeal raisin cookies 🍪.
  - Pineapple on pizza? Nope 🙅🏾‍♂️.
- - My coffee order: Americano with whole milk 🐮.
+ - My coffee order: Americano with a little whole milk 🐮.
+ - I have mastered the art of making American style pancakes from scratch 🥞.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebullock&layout=compact" alt="georgebullock" /></p>
 
