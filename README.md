@@ -23,9 +23,9 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 🔭 - My next side project is [UI Inventory](https://github.com/georgebullock/ui-inventory), which is a React component library I'm building from scratch. 
 
-🌱 - I’m learning **advanced React, algorithmic layout, CSS Grid, data structures and algorithms, system design**
+🌱 - I’m learning **more JavaScript (especially React), algorithmic layout, web animation, data structures and algorithms, and system design**
 
-🛣️ - My technical learning roadmap includes **Blitz.js, PostgresSQL, serverless framework, more SQL, and the most commonly used GoF design patterns**
+🛣️ - My technical learning roadmap includes **Blitz.js, serverless framework, PostgresSQL, and the most commonly used GoF design patterns**
 
 📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
