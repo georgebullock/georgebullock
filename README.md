@@ -19,13 +19,13 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 🤝  - I work full-time for [mobileJobs](https://www.mobilejob.com/).
 
-🛠️ - I know **HTML, CSS, JavaScript, React, TypeScript, and basic SQL**
+🛠️ - I know **HTML, CSS, JavaScript, TypeScript, React, and basic SQL**
 
 🔭 - My next side project is [UI Inventory](https://github.com/georgebullock/ui-inventory), which is a React component library I'm building from scratch. 
 
-🌱 - I’m learning **advanced React, application architecture, algorithmic layout, TDD, GraphQL (via Apollo), KeystoneJS**
+🌱 - I’m learning **advanced React, algorithmic layout, CSS Grid, data structures and algorithms, system design**
 
-🛣️ - My technical learning roadmap includes **Zustand, Redux Toolkit, React Query, React Aria, Framer Motion || React Motion, PostgresSQL, serverless architecture (via AWS), data visualization (via D3), fundamental data structures and algorithms, and the most commonly used GoF design patterns**
+🛣️ - My technical learning roadmap includes **Blitz.js, PostgresSQL, serverless framework, more SQL, and the most commonly used GoF design patterns**
 
 📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
