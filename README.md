@@ -19,13 +19,13 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 🤝  - I work full-time for [mobileJobs](https://www.mobilejob.com/).
 
-🛠️ - I know **HTML, CSS, JavaScript, TypeScript, React, and basic SQL**
+🛠️ - I know **HTML, CSS, JavaScript, React, TypeScript, and basic SQL**
 
-🔭 - My next side project is [UI Inventory](https://github.com/georgebullock/ui-inventory), which is a React component library I'm building from scratch. 
+🔭 - My current side project is [UI Inventory](https://github.com/georgebullock/ui-inventory), which is a React component library I'm building from scratch (just for fun 🤓). 
 
-🌱 - I’m learning **more JavaScript (especially React), algorithmic layout, web animation, data structures and algorithms, and system design**
+🌱 - I’m learning **more React, more TypeScript, algorithmic layout, CSS Grid, fundamental data structures and algorithms**
 
-🛣️ - My technical learning roadmap includes **Blitz.js, serverless framework, PostgresSQL, and the most commonly used GoF design patterns**
+🛣️ - My technical learning roadmap includes **a full-stack JavaScript framework (e.g. Blitz or Remix), full-stack application architecture, AWS via Serverless Framework, PostgresSQL, web animation, data visualization (via D3), and a few of the most commonly used GoF design patterns**
 
 📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
@@ -45,6 +45,10 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
  - Pineapple on pizza? Nope 🙅🏾‍♂️.
  - My coffee order: Americano with a little whole milk 🐮.
  - I have mastered the art of making American style pancakes from scratch 🥞.
+ 
+ ✅ - Recently Achieved Goals
+ - [x] Renewed my [PMI-ACP](https://www.credly.com/badges/8935049a-ee21-4605-ac60-3a40f6656a12/linked_in_profile) certificate (August 2022) 📜
+ - [x] Completed the [User Insights for Product Decisions](https://www.reforge.com/user-insights-product-decisions) course via Reforge's Fall 2022 Cohort (November 2022) 👨🏾‍🎓
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebullock&layout=compact" alt="georgebullock" /></p>
 
