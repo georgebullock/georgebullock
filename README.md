@@ -50,7 +50,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
  - [x] Renewed my [PMI-ACP](https://www.credly.com/badges/8935049a-ee21-4605-ac60-3a40f6656a12/linked_in_profile) certificate (August 2022) 📜
  - [x] Completed [Product Managment Foundations](https://www.reforge.com/programs/product-management-foundations) on demand via Reforge's Cohort (October 2022) 👨🏾‍🎓
  - [x] Completed the [User Insights for Product Decisions](https://www.reforge.com/user-insights-product-decisions) course via Reforge's Fall 2022 Cohort (November 2022) 👨🏾‍🎓
- - [x] Completed the [Finding Product Market Fit]((https://www.reforge.com/programs/finding-product-market-fit) course via Reforge's Spring 2023 Cohort (April 2023) 👨🏾‍🎓
+ - [x] Completed the [Finding Product Market Fit](https://www.reforge.com/programs/finding-product-market-fit) course via Reforge's Spring 2023 Cohort (April 2023) 👨🏾‍🎓
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebullock&layout=compact" alt="georgebullock" /></p>
 
