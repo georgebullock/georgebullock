@@ -11,7 +11,7 @@ To speed up my transition, I took a sabbatical for most of 2016 to study design 
 
 After ~5 years in frontend engineering, I decided to make a lateral move into product management to apply my business and technical skills to aligning people and driving business outcomes.
 
-Now, I'm a product manager at mobileJobs, which is a SaaS recruiting solution and marketplace for blue-collar talent. I'm responsible for the B2C side of the product making sure blue-collar job applicants have delightful application experiences resulting in job offers.
+Now, I'm a product lead at mobileJobs, which is a SaaS recruiting solution and marketplace for blue-collar talent. I'm responsible for the B2C side of the product making sure blue-collar job applicants have delightful application experiences resulting in job offers.
 
 I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Business Administration, with an emphasis on finance, from California State University, Los Angeles. And I'm a Project Management Institute Agile Certified Practitioner (PMI - ACP) certificate holder.
 
