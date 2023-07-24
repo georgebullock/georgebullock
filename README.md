@@ -9,7 +9,7 @@ The technical side of marketing inspired me to study design and web development.
 
 To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full time. Besides teaching myself, I completed a full-time web development boot camp. In October, I started applying for frontend development jobs. A month later I landed my first frontend job at IBM iX.
 
-After ~5 years in frontend engineering, I made a lateral move into product management to apply my business and technical skills to aligning people and driving business outcomes.
+After ~5 years in frontend engineering, I made a lateral move into product management to focus my energy on aligning people and driving business outcomes.
 
 Now, I'm a product lead at mobileJobs, which is a SaaS recruiting solution and marketplace for blue-collar talent. I'm responsible for the B2C side of the product making sure blue-collar job applicants have delightful application experiences resulting in job offers.
 
