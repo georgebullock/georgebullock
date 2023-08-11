@@ -7,7 +7,7 @@ I have over 10 years of experience working for media and technology companies. I
 
 The technical side of marketing inspired me to study design and web development. In mid-2015, I started teaching myself UX design, UI Design, HTML, CSS, and JavaScript after work. A few months later, I decided to become a frontend developer.
 
-To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full time. Besides teaching myself, I completed a full-time web development boot camp. In October, I started applying for frontend development jobs. A month later I landed my first frontend job at IBM iX.
+To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full-time. Besides teaching myself, I completed a full-time web development boot camp. In October, I started applying for frontend development jobs. A month later I landed my first frontend job at IBM iX.
 
 After ~5 years in frontend engineering, I made a lateral move into product management to focus my energy on aligning people and driving business outcomes.
 
@@ -21,11 +21,11 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 🛠️ - I know **HTML, CSS, JavaScript, React, TypeScript, and basic SQL**
 
-🔭 - My current side project is [UI Inventory](https://github.com/georgebullock/ui-inventory), which is a React component library I'm building from scratch (just for fun 🤓). 
+🔭 - I'm currently shopping around for a new programming side project (just for fun 🤓).
 
 🌱 - I’m learning **more React, more TypeScript, [algorithmic layout](https://www.youtube.com/watch?v=qOUtkN6M52M&list=PL2sukhHU1gzbJgEodn1haQ2HtfA_rdoge&index=3), CSS Grid, fundamental data structures and algorithms**
 
-🛣️ - My technical learning roadmap includes **a full-stack JavaScript framework (e.g. Blitz, Remix, Sails), full-stack application architecture, AWS via Serverless Framework, PostgresSQL, web animation, data visualization (via D3), and a few GoF design patterns**
+🛣️ - My technical learning roadmap includes **a full-stack JavaScript framework (e.g. Blitz, Remix, Sails), full-stack application architecture, AWS via Serverless Framework, PostgreSQL, web animation, data visualization (via D3), and a few GoF design patterns**
 
 📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
@@ -44,7 +44,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
  - My favorite baked good: Oatmeal raisin cookies 🍪.
  - Pineapple on pizza? Nope 🙅🏾‍♂️.
  - My coffee order: Americano with a little whole milk 🐮.
- - I have mastered the art of making American style pancakes from scratch 🥞.
+ - I have mastered the art of making American-style pancakes from scratch 🥞.
  
  ✅ - Rolling ~1 Year Goal Achievement  
  - [x] Renewed my [PMI-ACP](https://www.credly.com/badges/8935049a-ee21-4605-ac60-3a40f6656a12/linked_in_profile) certificate (August 2022) 📜
