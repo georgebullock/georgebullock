@@ -11,23 +11,23 @@ To speed up my transition, I took a sabbatical for most of 2016 to study design 
 
 After ~5 years in frontend engineering, I made a lateral move into product management to focus my energy on aligning people and driving business outcomes.
 
-Now, I'm a product lead at mobileJobs, which is a SaaS recruiting solution and marketplace for blue-collar talent. I'm responsible for the B2C side of the product making sure blue-collar job applicants have delightful application experiences resulting in job offers.
+Now, I'm a product lead at mobileJobs, a SaaS recruiting solution and marketplace for blue-collar talent. I'm responsible for the B2C side of the product making sure blue-collar job applicants have delightful application experiences resulting in job offers.
 
 I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Business Administration, with an emphasis on finance, from California State University, Los Angeles. And I'm a Project Management Institute Agile Certified Practitioner (PMI - ACP) certificate holder.
 
 <h2 align="left">More about me</h2>
 
-🤝  - I work full-time for [mobileJobs](https://www.mobilejob.com/).
+🤝  - I work full-time for [TBD](https://www.georgebullock.dev/).
 
 🛠️ - I know **HTML, CSS, JavaScript, React, TypeScript, and basic SQL**
 
-🔭 - I'm currently shopping around for a new programming side project (just for fun 🤓).
+🔭 - I'm shopping around for a new programming side project (just for fun 🤓).
 
 🌱 - I’m learning **more React, more TypeScript, [algorithmic layout](https://www.youtube.com/watch?v=qOUtkN6M52M&list=PL2sukhHU1gzbJgEodn1haQ2HtfA_rdoge&index=3), CSS Grid, fundamental data structures and algorithms**
 
 🛣️ - My technical learning roadmap includes **a full-stack JavaScript framework (e.g. Blitz, Remix, Sails), full-stack application architecture, AWS via Serverless Framework, PostgreSQL, web animation, data visualization (via D3), and a few GoF design patterns**
 
-📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), which is a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
+📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
 ✍🏾 - I recently created a blog named [Diaminding](https://www.diaminding.com/about/), but I haven't started publishing yet
 
