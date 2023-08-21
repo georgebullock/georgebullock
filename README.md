@@ -21,7 +21,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 🛠️ - I know **HTML, CSS, JavaScript, React, TypeScript, and basic SQL**
 
-🔭 - I'm shopping around for a new programming side project (just for fun 🤓).
+🔭 - I'm shopping around for a new programming side project 🤓.
 
 🌱 - I’m learning **more React, more TypeScript, [algorithmic layout](https://www.youtube.com/watch?v=qOUtkN6M52M&list=PL2sukhHU1gzbJgEodn1haQ2HtfA_rdoge&index=3), CSS Grid, fundamental data structures and algorithms**
 
