@@ -29,7 +29,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
-✍🏾 - I recently created a blog named [Diaminding](https://www.diaminding.com/about/), but I haven't started publishing yet
+✍🏾 - I created a blog named [Diaminding](https://www.diaminding.com/about/), but I haven't started publishing yet
 
 🌐 - My personal website is [georgebullock.dev](https://www.georgebullock.dev/)
 
