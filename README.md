@@ -17,7 +17,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 <h2 align="left">More about me</h2>
 
-🤝  - I work full-time for [TBD](https://www.georgebullock.dev/).
+🤝  - I work full-time for [Staffbase](https://staffbase.com/en/).
 
 🛠️ - I know **HTML, CSS, JavaScript, React, TypeScript, and basic SQL**
 
