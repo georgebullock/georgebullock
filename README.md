@@ -11,7 +11,7 @@ To speed up my transition, I took a sabbatical for most of 2016 to study design 
 
 After ~5 years in frontend engineering, I made a lateral move into product management to focus my energy on aligning people and driving business outcomes.
 
-Now, I'm a product lead at mobileJobs, a SaaS recruiting solution and marketplace for blue-collar talent. I'm responsible for the B2C side of the product making sure blue-collar job applicants have delightful application experiences resulting in job offers.
+Currently, I'm a product manager at Staffbase, which is a leading communications platform for businesses. My group is building Staffbase's external communications solution. Specifically, my team is responsible for the social media component of the overall external communications offer. 
 
 I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Business Administration, with an emphasis on finance, from California State University, Los Angeles. And I'm a Project Management Institute Agile Certified Practitioner (PMI - ACP) certificate holder.
 
@@ -43,7 +43,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
  - My favorite restaurant: It's a tie between [Doyum Restaurant](http://www.doyum-restaurant.de/) 🇹🇷 and [Good Friends](https://www.goodfriends-berlin.de/) 🇨🇳.
  - My favorite baked good: Oatmeal raisin cookies 🍪.
  - Pineapple on pizza? Nope 🙅🏾‍♂️.
- - My coffee order: Americano with a little whole milk 🐮.
+ - My coffee order: Americano with a bit of whole milk 🐮.
  - I have mastered the art of making American-style pancakes from scratch 🥞.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebullock&layout=compact" alt="georgebullock" /></p>
