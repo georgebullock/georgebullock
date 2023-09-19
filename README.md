@@ -44,7 +44,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
  - My favorite baked good: Oatmeal raisin cookies 🍪.
  - Pineapple on pizza? Nope 🙅🏾‍♂️.
  - My coffee order: Americano with a bit of whole milk 🐮.
- - I have mastered the art of making American-style pancakes from scratch 🥞.
+ - I mastered the art of making American-style pancakes from scratch 🥞.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebullock&layout=compact" alt="georgebullock" /></p>
 
