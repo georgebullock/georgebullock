@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm George</h1>
+
 <h2 align="left">A product manager in Berlin, Germany</h2>
 
 I'm a business professional with strong information technology skills.
