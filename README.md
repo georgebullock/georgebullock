@@ -4,17 +4,17 @@
 
 I'm a business professional with strong information technology skills.
 
-I have over 10 years of experience working for media and technology companies. I started my career in finance and business development. Post-Grad, I switched to marketing and did growth-oriented marketing for startups. My focuses were user acquisition and conversion optimization.
+I have 15 years of experience working for media and technology companies. I started my career in finance and business development. Post-Grad, I switched to marketing and did growth-oriented marketing for startups. My focuses were user acquisition and conversion optimization.
 
 The technical side of marketing inspired me to study design and web development. In mid-2015, I started teaching myself UX design, UI Design, HTML, CSS, and JavaScript after work. A few months later, I decided to become a frontend developer.
 
-To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full-time. Besides teaching myself, I completed a full-time web development boot camp. In October, I started applying for frontend development jobs. A month later I landed my first frontend job at IBM iX.
+To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full-time. Besides teaching myself, I completed a full-time web development boot camp. That October I started applying for frontend development jobs. A month later I landed my first frontend job at IBM iX.
 
-After ~5 years in frontend engineering, I made a lateral move into product management to focus my energy on aligning people and driving business outcomes.
+After ~5 years in frontend engineering, I made a lateral move into product management to focus my energy on aligning people and driving business outcomes. I still code on the side to keep my technical skills sharp.
 
-Currently, I'm a product manager at Staffbase, which is a leading communications platform for businesses. My group is building Staffbase's external communications solution. Specifically, my team is responsible for the social media component of the overall external communications offer. 
+Currently, I'm a senior product manager at Staffbase, which is a leading communications platform for businesses. My group is building Staffbase's external communications solution. Specifically, my team is responsible for the external content publishing component of the overall external communications offer.
 
-I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Business Administration, with an emphasis on finance, from California State University, Los Angeles. And I'm a Project Management Institute Agile Certified Practitioner (PMI - ACP) certificate holder.
+I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Business Administration, with an emphasis on finance, from California State University, Los Angeles. And I'm a Project Management Institute Agile Certified Practitioner (PMI-ACP)®) certificate holder.
 
 <h2 align="left">More about me</h2>
 
@@ -26,7 +26,7 @@ I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Busi
 
 🌱 - I’m learning **more React, more TypeScript, [algorithmic layout](https://www.youtube.com/watch?v=qOUtkN6M52M&list=PL2sukhHU1gzbJgEodn1haQ2HtfA_rdoge&index=3), CSS Grid, fundamental data structures and algorithms**
 
-🛣️ - My technical learning roadmap includes **a full-stack JavaScript framework (e.g. Blitz, Remix, Sails), full-stack application architecture, AWS via Serverless Framework, PostgreSQL, web animation, data visualization (via D3), and a few GoF design patterns**
+🛣️ - My technical learning roadmap includes **a full-stack JavaScript framework (e.g. Blitz, Remix, Sails), full-stack application architecture, AWS via CDK, PostgreSQL, web animation, data visualization (via D3), and a few GoF design patterns**
 
 📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
