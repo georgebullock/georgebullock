@@ -2,19 +2,17 @@
 
 <h2 align="left">A product manager in Berlin, Germany</h2>
 
-I'm a business professional with strong information technology skills.
+I’m a senior IC-track product leader with strong technical and business backgrounds. Motivated by building high-value, differentiated, products and aligning cross-functional teams towards achieving clear strategic objectives.
 
-I have 15 years of experience working for media and technology companies. I started my career in finance and business development. Post-Grad, I switched to marketing and did growth-oriented marketing for startups. My focuses were user acquisition and conversion optimization.
+I started my career in finance and business development, then transitioned into growth-oriented marketing, focusing on user acquisition and conversion optimization. Technical marketing work led me to frontend development, where I spent five years building digital experiences at IBM iX, and Aroundhome, before moving into product management.
 
-The technical side of marketing inspired me to study design and web development. In mid-2015, I started teaching myself UX design, UI Design, HTML, CSS, and JavaScript after work. A few months later, I decided to become a frontend developer.
+Currently, I’m a Senior Product Manager at Staffbase, where I own Social and Community feature development within the App / Intranet group. I work closely with senior engineering, design, and business stakeholders to define product vision, strategy, and roadmaps, and to align priorities across teams. My objective is to create business value by increasing employee engagement via deep understanding of user needs, informed by customer research and close collaboration with stakeholders.
 
-To speed up my transition, I took a sabbatical for most of 2016 to study design and web technology full-time. Besides teaching myself, I completed a full-time web development boot camp. That October, I started applying for frontend development jobs. A month later, I landed my first frontend job at IBM iX.
+Previously, I owned Staffbase’s external comms product, taking it from proof-of-concept, to closed beta, and open beta before a strategic pivot away from external comms. Before that, I was Product Lead at mobileJobs, where I launched two products via close collaboration with GTM leadership, resulting in new customer acquisition and higher NRR. I also led product due diligence for M&A.
 
-After ~5 years in frontend engineering, I made a lateral move into product management to focus my energy on aligning people and driving business outcomes. I still code on the side to keep my technical skills sharp.
+I hold an MBA from EDHEC Business School and a B.S. in Finance from California State University, Los Angeles. I’m also a PMI Agile Certified Practitioner (PMI-ACP®).
 
-Currently, I'm a senior product manager at Staffbase, which is a leading communications platform for businesses. My group is building Staffbase's App / Intranet product. Specifically, my team is responsible for the Social and Community features, covering employee recognition, social engagement, and communities. Previously, I was responsible for building the external communications product.
-
-I earned an MBA from EDHEC Business School in France. I also hold a B.S. in Business Administration, with an emphasis on finance, from California State University, Los Angeles. And I'm a Project Management Institute Agile Certified Practitioner (PMI-ACP®) certificate holder.
+I'm committed to staying on the IC track in senior or lead / staff product management roles that don't have direct reports.
 
 <h2 align="left">More about me</h2>
 
