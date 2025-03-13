@@ -12,7 +12,7 @@ Previously, I owned Staffbase’s external comms product, taking it from proof-o
 
 I hold an MBA from EDHEC Business School and a B.S. in Finance from California State University, Los Angeles. I’m also a PMI Agile Certified Practitioner (PMI-ACP®).
 
-I'm committed to staying on the IC track in senior or lead / staff product management roles that don't have direct reports.
+I'm committed to staying on the IC track in senior or staff / lead product management roles that don't have direct reports.
 
 <h2 align="left">More about me</h2>
 
