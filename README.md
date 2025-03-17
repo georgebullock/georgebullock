@@ -8,7 +8,7 @@ I started my career in finance and business development, then transitioned into 
 
 Currently, I’m a Senior Product Manager at Staffbase, where I own Social and Community feature development within the App / Intranet group. I work closely with senior engineering, design, and business stakeholders to define product vision, strategy, and roadmaps, and to align priorities across teams. My objective is to create business value by increasing employee engagement via deep understanding of user needs, informed by user research and close collaboration with stakeholders.
 
-Previously, I owned Staffbase’s external comms product, taking it from proof-of-concept, to closed beta, and open beta before a strategic pivot away from external comms. Before that, I was Product Lead at mobileJobs, where I launched two products via close collaboration with GTM leadership, resulting in new customer acquisition and higher NRR. I also led product due diligence for M&A.
+Previously, I owned Staffbase’s external comms product, taking it from proof-of-concept, to closed beta, and open beta until a strategic pivot away from external comms. Before that, I was Product Lead at mobileJobs, where I launched two products via close collaboration with GTM leadership, resulting in new customer acquisition and higher NRR. I also led product due diligence for M&A.
 
 I hold an MBA from EDHEC Business School and a B.S. in Finance from California State University, Los Angeles. I’m also a PMI Agile Certified Practitioner (PMI-ACP®).
 
