@@ -10,7 +10,7 @@ Currently, I’m a Senior Product Manager at Staffbase, where I own Social and C
 
 Previously, I owned Staffbase’s external comms product, taking it from proof-of-concept, to closed beta, and open beta until a strategic pivot away from external comms. Before that, I was Product Lead at mobileJobs, where I launched two products via close collaboration with GTM leadership, resulting in new customer acquisition and higher NRR. I also led product due diligence for M&A.
 
-I hold an MBA from EDHEC Business School and a B.S. in Finance from California State University, Los Angeles. I’m also a PMI Agile Certified Practitioner (PMI-ACP®).
+I hold an MBA from EDHEC Business School and a B.S. in Finance from California State University, Los Angeles. I’m also a Project Management Institute Agile Certified Practitioner (PMI-ACP®).
 
 I'm committed to staying on the IC track in senior or staff / lead product management roles that don't have direct reports.
 
