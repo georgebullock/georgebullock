@@ -36,9 +36,9 @@ I hold an MBA from EDHEC Business School and a B.S. in Finance from California S
 
 🔭 - I'm shopping around for a new programming side project 🤓.
 
-🌱 - I’m learning **more HTML, more CSS, more TypeScript, more React, [algorithmic layout](https://www.youtube.com/watch?v=qOUtkN6M52M&list=PL2sukhHU1gzbJgEodn1haQ2HtfA_rdoge&index=3), fundamental data structures and algorithms**
+🌱 - I’m learning **more HTML, more CSS, more TypeScript, more React, [algorithmic layout](https://www.youtube.com/watch?v=qOUtkN6M52M&list=PL2sukhHU1gzbJgEodn1haQ2HtfA_rdoge&index=3), fundamental data structures and algorithms, and AI (of course 🤖)**
 
-🛣️ - My technical learning roadmap includes **a full-stack JavaScript framework (e.g. Blitz, Remix, Sails), full-stack application architecture, AWS via CDK, PostgreSQL, web animation, data visualization (via D3), and a few GoF design patterns**
+🛣️ - My technical learning roadmap includes **a full-stack JavaScript framework (e.g. Adonis), full-stack application architecture, CI / CD, PostgreSQL, web animation, data visualization (via D3), and a few GoF design patterns**
 
 📝 - In 2020, I published [Level Up and Launch](https://medium.com/level-up-and-launch), a limited series of articles about my experience leveling up my technical skills full-time to get my first React job.
 
