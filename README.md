@@ -58,7 +58,3 @@ I hold an MBA from EDHEC Business School and a B.S. in Finance from California S
  - Pineapple on pizza? Nope 🙅🏾‍♂️.
  - My coffee order: Americano with a bit of whole milk 🐮.
  - I mastered the art of making American-style pancakes from scratch 🥞.
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebullock&layout=compact" alt="georgebullock" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgebullock&show_icons=true" alt="georgebullock" /></p>
