@@ -50,7 +50,7 @@ Right now, I’m focused on improving my German (and becoming a citizen), sharpe
 
 Hiking, indoor gardening, photography, HIIT training, OOUX, programming, marketing, finance, researching, writing
 
-## **Background and Links**
+### **Background and Links**
 
 - Based in Berlin
 - Bay Area native
