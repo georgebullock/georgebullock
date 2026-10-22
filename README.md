@@ -61,7 +61,7 @@ Hiking, indoor gardening, photography, HIIT training, OOUX, programming, marketi
 - My blog: [George Bullock](https://georgebullock.substack.com/p/coming-soon)
 - My photography: [Unsplash](https://unsplash.com/@george_bullock)
 
-⚡ - Other Fun facts 
+### Other Fun facts 
  - I'm an occasional Unsplash contributor. Check out my photos [here](https://unsplash.com/@george_bullock) 📷.
  - I briefly worked in theatrical marketing for [Lionsgate](https://www.lionsgate.com/). I met a handful of celebs and literally got paid to watch movies 🎬.
  - Before moving to Germany 🇩🇪  I lived in France 🇫🇷  and Mexico 🇲🇽  for one year each. But, I don't speak French or Spanish 🤷🏾‍♂️.
