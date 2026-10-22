@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm George</h1>
 
-<h2 align="left">I’m a senior IC-track product manager and product builder in Berlin, Germany</h2>
+<h3 align="left">I’m a senior IC-track product manager and product builder in Berlin, Germany</h3>
 
 I have a business and frontend development background. I lead new products from initial framing through beta and release. I help teams decide what to build while balancing customer needs, business goals, and technical constraints.
 
