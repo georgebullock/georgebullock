@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm George</h2>
+<h2 align="left">Hey 👋, I'm George</h2>
 
 <h3 align="left">I’m a senior IC-track product manager and product builder in Berlin, Germany.</h3>
 
